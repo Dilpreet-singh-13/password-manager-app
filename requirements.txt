@@ -1,0 +1,9 @@
+greenlet==3.1.0
+passlib==1.7.4
+psycopg2==2.9.9
+pyasn1==0.6.1
+PySimpleGUI==5.0.6
+python-dotenv==1.0.1
+rsa==4.9
+SQLAlchemy==2.0.34
+typing_extensions==4.12.2
