@@ -37,6 +37,7 @@ A simple password manager app with a easy to follow GUI.
      ```
 
 6. Configure Environment Variables
+   
    The project uses environment variables to store sensitive information such as database credentials.
    Create a `.env` file in the root directory of the project and add the following:
    ```bash
